@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Chris Morris",
+      "title": "Nvidia shoots past Alphabet to become the third most valuable U.S. company - Fortune",
+      "description": "Market cap hits $1.8 trillion.",
+      "url": "https://fortune.com/2024/02/15/nvidia-third-most-valuable-u-s-company-alphabet-microsoft-apple/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1951746092-e1708010414639.jpg?resize=1200,600",
+      "publishedAt": "2024-02-16T04:52:13Z",
+      "content": "Step aside, Alphabet. Out of the way, Amazon. Theres a new member of the most-valuable companies club in the U.S.Fueled by investor fanaticism over artificial intelligence, Nvidia stock has soared to… [+1484 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Katherine Donlevy",
+      "title": "Flyer slips past Nashville airport checkpoint, boards American Airlines flight to LA without ticket - New York Post ",
+      "description": "The flyer skipped the typically thorough checkpoint at Nashville International Airport by jumping a barrier in an unmanned section of the line.",
+      "url": "https://nypost.com/2024/02/15/us-news/american-airlines-confirmed-woman-snuck-onto-la-bound-flight-without-ticket/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/plane-comp.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-02-16T04:52:00Z",
+      "content": "A woman allegedly snuck past a Nashville airport security checkpoint and onto a Los Angeles-bound American Airlines flight without a boarding pass or identification earlier this month.\r\nThe flyer jum… [+2232 chars]"
+    },
+    {
+      "source": { "id": null, "name": "OregonLive" },
+      "author": "Matthew Kish | The Oregonian/OregonLive",
+      "title": "Nike to lay off 2% of global workforce, CEO tells employees - OregonLive",
+      "description": "The number suggests the footwear company could eliminate more than 1,500 jobs.",
+      "url": "https://www.oregonlive.com/business/2024/02/nike-to-lay-off-2-of-global-workforce-ceo-tells-employees.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/En4MFfYxik4LX9W1FWmuDRypy8M=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4TYLD7QGY5EZPKTNFTJ73ZPTAE.jpg",
+      "publishedAt": "2024-02-16T02:30:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Detroit News" },
+      "author": "Tom Krisher",
+      "title": "Ford-UAW tensions flare anew as automaker mulls its manufacturing footprint - Detroit News",
+      "description": "Last fall's strike changed Ford's relationship with the union to where it will “think carefully” about where it builds future vehicles, CEO said.",
+      "url": "https://www.detroitnews.com/story/business/autos/ford/2024/02/15/ford-ceo-says-company-will-rethink-where-it-builds-vehicles-after-last-years-autoworkers-strike/72612953007/",
+      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/02/15/PDTN/72612886007-ap-23257034149582.jpg?crop=6248,3515,x682,y580&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2024-02-16T02:26:15Z",
+      "content": "Last fall's contentious United Auto Workers' strike changed Ford Motor Co.'s relationship with the union to the point where it will think carefully about where it builds future vehicles, Ford's top e… [+7640 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Hannah Erin Lang",
+      "title": "Investors will have to wait awhile for interest-rate cuts, Fed’s Bostic says - MarketWatch",
+      "description": "Inflation has slowed faster than expected, Atlanta Fed chief says, but there’s a ‘bumpy’ road ahead",
+      "url": "https://www.marketwatch.com/story/investors-will-have-to-wait-awhile-for-interest-rate-cuts-feds-bostic-says-4dd56bd9",
+      "urlToImage": "https://images.mktw.net/im-631085/social",
+      "publishedAt": "2024-02-16T02:21:00Z",
+      "content": "Investors will have to wait until at least July for those widely expected interest-rate cuts, according to one Federal Reserve presidents outlook.Atlanta Fed President Raphael Bostic said rate cuts p… [+2319 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WHIO" },
+      "author": "WHIO Staff",
+      "title": "FULL LIST of 100+ products recalled because of listeria concerns & items sold in Ohio - WHIO",
+      "description": "The outbreak is nationwide and two people have died.",
+      "url": "https://www.whio.com/news/local/full-list-more-than-100-products-recalled-due-listeria-concerns-items-sold-ohio/RQKPPNO7ORGAXGYBJZM6RB3A3A/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/wi20CwJh1rUpCGfkXxX4BnR9uAc=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/02-15-2024/t_b238814ed99544d7a101f9ce2c314377_name_iStock_1225971187.jpg",
+      "publishedAt": "2024-02-16T02:06:00Z",
+      "content": "More than 100 products are under recall because of listeria.\r\nIt could cause serious illness, and many of the affected items are sold in Ohio.\r\n&gt;&gt; RELATED: Recall alert: Dole salad kits recalle… [+12297 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Lim Hui Jie, Lee Ying Shan",
+      "title": "Japan stocks lead gains in Asia with Nikkei hitting fresh 34-year highs; Singapore budget on tap - CNBC",
+      "description": "Japan's Nikkei 225 was on course to reach all-time highs — it was less than 100 points from scaling its record peak at its intraday high of 38,863.6",
+      "url": "https://www.cnbc.com/2024/02/16/asia-markets-set-to-track-wall-street-gains-with-sp-500-hitting-a-record-high-overnight.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107273388-1689733279342-gettyimages-821304076-singaporesunset2.jpeg?v=1708040161&w=1920&h=1080",
+      "publishedAt": "2024-02-16T01:52:00Z",
+      "content": "Hong Kong markets led gains in Asia on Friday, with Japan's Nikkei 225 hitting a fresh 34-year high as it attempted to scale its all-time peak.\r\nAt its intraday high of 38,863.69, Nikkei was less tha… [+1354 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Mike Murphy",
+      "title": "Jeff Bezos sells more Amazon stock, bringing total to $6 billion this month - MarketWatch",
+      "description": "Billionaire Jeff Bezos has sold another $2 billion in Amazon.com Inc. shares, bringing his total in stock sales over the past week or so to about $6 billion.",
+      "url": "https://www.marketwatch.com/story/jeff-bezos-sells-more-amazon-stock-bringing-total-to-6-billion-this-month-d2942c60",
+      "urlToImage": "https://images.mktw.net/im-24379569/social",
+      "publishedAt": "2024-02-16T00:56:00Z",
+      "content": "Billionaire Jeff Bezos has sold another $2 billion in Amazon.com Inc. shares, bringing his total in stock sales this month to about $6 billion.According to a Securities and Exchange Commission filing… [+1071 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KOMO News" },
+      "author": "Jackie Kent, KOMO News Staff",
+      "title": "Get ready for the 2 Line: Eastside Link light rail set to open in April - KOMO News",
+      "description": "If you live or work on the Eastside, public transit could become much easier starting this spring.",
+      "url": "https://komonews.com/news/local/eastside-link-light-rail-opening-april-27-south-bellevue-redmond-technology-stations-belred-2-line-public-transit-security-king-county-transportation-travel",
+      "urlToImage": "https://komonews.com/resources/media/83058d0b-a40f-49d0-a1d6-7c5be02e437f-large16x9_b17c46969bfe418e9f7ad43baf28783ebds_testing_2021111412.jpg?1670617051136",
+      "publishedAt": "2024-02-16T00:37:35Z",
+      "content": "BELLEVUE, Wash. For the first time, people who live and work in east King County will have access to light rail service. Sound Transit just announced Thursday the new 2 Line will open April 27 and wi… [+3552 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KTLA Los Angeles" },
+      "author": "Iman Palm",
+      "title": "Allstate hikes auto insurance premiums 30% in California - KTLA Los Angeles",
+      "description": "Allstate customers in the Golden State will have to pay more to insure their vehicles with the company. Company officials announced that California drivers would have to pay 30% more for vehicle insurance coverage, on average. The rate hike was approved in De…",
+      "url": "https://ktla.com/news/california/allstate-hikes-prices-30-in-california/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/06/GettyImages-79086274-1.jpg?w=1280",
+      "publishedAt": "2024-02-15T23:04:07Z",
+      "content": "Allstate customers in the Golden State will have to pay more to insure their vehicles with the company.\r\nCompany officials announced that California drivers would have to pay 30% more for vehicle ins… [+3516 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Boston Globe" },
+      "author": null,
+      "title": "Toast cuts 550 jobs - The Boston Globe",
+      "description": "The Boston-based restaurant software firm said Thursday it would cut about 10 percent of its staff and reorganize its offices in a drive to reach profitability more quickly.",
+      "url": "https://www.bostonglobe.com/2024/02/15/business/toast-layoffs/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/LzGi53ETpCMhSeKCl-kVYmX_-K4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JGQ3COA4N5CM5MLAELYKY4KBFM.png",
+      "publishedAt": "2024-02-15T22:46:18Z",
+      "content": "New Toast chief executive Aman Narang is starting off his tenure with a drive for efficiency and job-cutting.\r\nOn Thursday, the Boston-based restaurant software firm said it would cut 550 jobs, about… [+2519 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investor's Business Daily" },
+      "author": "Investor's Business Daily",
+      "title": "Roku Stock Drops Despite Beating User Target - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/news/technology/roku-stock-drops-despite-beating-user-target/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-15T22:41:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Investopedia" },
+      "author": "Naomi Buchanan",
+      "title": "Super Micro Computer Stock Soars 14% to Record High on Anticipation of AI Growth - Investopedia",
+      "description": "Super Micro Computer shares soared 14% to a record high above $1,000 Thursday as analysts said the provider of computing, storage, and networking solutions could see significant gains from the artificial intelligence boom.",
+      "url": "https://www.investopedia.com/super-micro-computer-shares-soar-to-record-high-on-anticipation-of-ai-growth-8583828",
+      "urlToImage": "https://www.investopedia.com/thmb/-SbWygi1oG5slwIxzPzWcw7EhRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1828862796-8edc3853717b4c69997e7c860b87a74c.jpg",
+      "publishedAt": "2024-02-15T22:33:06Z",
+      "content": "<ul><li>Super Micro Computer shares surged 14% to a record high Thursday as analysts said the company could gain from the artificial intelligence (AI) boom.</li><li>Barclays analysts raised their pri… [+1739 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Avlwatchdog.org" },
+      "author": "ANDREW R. JONES",
+      "title": "CMS report on Mission details deaths of patients, significant delays in care • Asheville Watchdog - Asheville Watchdog",
+      "description": "Three patients died and others were endangered at Mission Hospital in 2022 and 2023 following significant delays and lapses of care in the emergency department and other areas, according to a scathing U.S. Centers for Medicare & Medicaid Services report obtai…",
+      "url": "http://avlwatchdog.org/cms-immediate-jeopardy-report-on-mission-details-deaths-of-patients-significant-delays-in-care/",
+      "urlToImage": "https://avlwatchdog.org/wp-content/uploads/2024/02/20231206_watchdog_mission_0034-scaled-e1707179750151.jpg",
+      "publishedAt": "2024-02-15T22:29:50Z",
+      "content": "Subscribe to our free Asheville Watchdog news alerts.\r\nThree patients died and others were endangered at Mission Hospital in 2022 and 2023 following significant delays and lapses of care in the emerg… [+11332 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Kristine Parks",
+      "title": "Finance columnist flabbergasted after she fell for Amazon scam that cost her $50,000 in savings - Fox News",
+      "description": "A financial columnist shared how she fell prey to a financial scam last year, despite not fitting the \"stereotype\" of typical victims.",
+      "url": "https://www.foxnews.com/media/finance-columnist-flabbergasted-fell-amazon-scam-cost-50000-savings",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/2-How-clicking-on-that-fake-Amazon-ad-can-lead-to-Microsoft-support-scam.jpeg",
+      "publishedAt": "2024-02-15T22:27:00Z",
+      "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+4662 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters.com",
+      "title": "Wells Fargo's regulatory burden eases as watchdog lifts a 2016 punishment - Reuters.com",
+      "description": null,
+      "url": "https://www.reuters.com/business/wells-fargo-says-occ-terminated-2016-consent-order-2024-02-15/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-15T22:23:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Nvidia discloses investments in smaller AI firms - Yahoo Finance",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=ywtelDVEZm8",
+      "urlToImage": null,
+      "publishedAt": "2024-02-15T22:22:10Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Emily Bary",
+      "title": "Applied Materials’ stock climbs as company logs earnings beat, sees AI momentum - MarketWatch",
+      "description": "CEO expects ‘continued outperformance as customers ramp next-generation chip technologies critical to AI’ and the Internet of Things",
+      "url": "https://www.marketwatch.com/story/applied-materials-stock-climbs-as-company-logs-earnings-beat-sees-ai-momentum-3e142a9f",
+      "urlToImage": "https://images.mktw.net/im-67297829/social",
+      "publishedAt": "2024-02-15T22:12:00Z",
+      "content": "Applied Materials Inc. delivered upbeat results and guidance Thursday afternoon, and its stock surged in the extended session.The chip-equipment company logged fiscal-first quarter net income of $2.0… [+1231 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Jacquelyn Melinek and Alex Wilhelm",
+      "title": "Coinbase cites stablecoins, Base as key 2024 priorities after crushing Q4 estimates - TechCrunch",
+      "description": "After disclosing better-than-expected financial results in its fourth-quarter earnings report, U.S.-based Coinbase has big plans. The second-largest",
+      "url": "https://techcrunch.com/2024/02/15/coinbase-cites-stablecoins-base-as-key-2024-priorities-after-crushing-q4-estimates/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1312540542.jpg?resize=1200,843",
+      "publishedAt": "2024-02-15T22:10:47Z",
+      "content": "After disclosing better-than-expected financial results in its fourth-quarter earnings report, U.S.-based Coinbase has big plans.\r\nThe second-largest crypto exchange told its investors that it intend… [+4156 chars]"
+    }
+  ]
+}
